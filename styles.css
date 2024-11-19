@@ -1,0 +1,29 @@
+#mainDiv {
+    display:flex;
+    background: rgb(75, 47, 94);
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 960px;
+    height: 614px;
+}
+
+.whiteGrid {
+    background: rgb(31, 148, 177);
+}
+
+#widthBtn {
+    width: fit-content;
+    margin: 10px;
+    font-size: 21px;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#wrap {
+    display: flex;
+    justify-content: center;
+}
